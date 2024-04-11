@@ -5,7 +5,7 @@ students and professionals to contribute to critical tech building
 blocks with the guidance of a dedicated mentor.
 
 Sugar Labs will be participating in DMP 2024. Details to
-follow. Meanwhile, look for tickets with "[DMP 2024]" in their titles.
+follow. Meanwhile, look for tickets with the **DMP2024** tag.
 
 Applications for the program are now open and contributors can apply
 via [this portal](https://bit.ly/DMP2024_Unstop) and access all the
