@@ -12,3 +12,7 @@ via [this portal](https://bit.ly/DMP2024_Unstop) and access all the
 live projects [here](https://bit.ly/DMP2024ProjectList). The
 applications close on 1st May for the contributors post which the
 mentors will need to share the final shortlists.
+
+Potential contributors:
+* Please refer to the [Sugar Labs documentation](https://github.com/sugarlabs/sugar-docs) in regard to our code of conduct, communications guide, and getting started.
+* Please note that only projects with the **DMP2024** tag will be available this year (we need to start slowly in our first year in the program).
