@@ -1,4 +1,5 @@
 # DMP
+
 The [Dedicated Mentoring
 Program](https://www.codeforgovtech.in/c4gt-2024/) is a place for
 students and professionals to contribute to critical tech building
@@ -14,8 +15,9 @@ applications close on 1st May for the contributors post which the
 mentors will need to share the final shortlists.
 
 Potential contributors:
-* Please refer to the [Sugar Labs documentation](https://github.com/sugarlabs/sugar-docs) in regard to our code of conduct, communications guide, and getting started.
-* Please note that only projects with the **DMP2024** tag will be available this year (we need to start slowly in our first year in the program).
+
+- Please refer to the [Sugar Labs documentation](https://github.com/sugarlabs/sugar-docs) in regard to our code of conduct, communications guide, and getting started.
+- Please note that only projects with the **DMP2024** tag will be available this year (we need to start slowly in our first year in the program).
 
 ## Timeline for DMP 2024.
 
